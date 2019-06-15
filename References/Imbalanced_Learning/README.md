@@ -1,1 +1,1 @@
-# Imbalanced Learnaing
+# Imbalanced Learning
