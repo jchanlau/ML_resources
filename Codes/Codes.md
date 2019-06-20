@@ -9,3 +9,9 @@
 - **imbalanced-learn**: Imbalanced learning module  
   Under- and over-sampling routines, including SMOTE  
   https://imbalanced-learn.readthedocs.io/en/stable/
+
+## Missing data
+
+- **missingno**: Python visualization tool for missing data  
+  Author: [Aleksei Bilogur](https://github.com/ResidentMario)  
+  https://github.com/ResidentMario/missingno
