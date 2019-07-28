@@ -59,6 +59,7 @@
 16.  [Computational methods in the Civic Sphere, Stanford](http://www.compciv.org/)  
      + Useful resources on Python programming and bash commands
 
+17.  [AI Google](http://ai.google)
       
       
       
