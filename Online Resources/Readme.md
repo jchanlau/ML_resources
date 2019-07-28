@@ -102,6 +102,8 @@
 17.  [Foundations of Computation Textbook](https://math.hws.edu)
 
 18.  [Amazon Forecasts](https://aws.amazon.com/forecast/features)
+
+19.  [Amazon interview questions](https://www.interviewbit.com/amazon-interview-questions/)
      
       
 
