@@ -2,7 +2,12 @@
 
 1. Deep Learning  
      + [University of Amsterdam Deep Learning Course](https://uvadlc.github.io)
+     + [Stanford CS224n NLP with Deep Learning](https://web.stanford.edu/class/cs224n)
+     + Stanford CS230 Fall 2018
+          - [Videos](https://www.youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
+          - [Web page](https://cs230.stanford.edu)
      + [DeepMind](https://deepmind.com)
+     
 
 2.   MIT Statistical Learning 9.520: Tomasso Poggio  
      + [Lecture notes](http://www.mit.edu/~9.520/fall18/)  
@@ -56,6 +61,11 @@
       + [Sergey Levine, Deep Reinforcement Learning, Cal](http://rail.eecs.berkeley.edu/deeprlcourse/)
       + [Holly Grimm Open AI](https://hollygrimm.com/syllabus_rl)
       + [CMU introduction to Dep Learning](http://deeplearning.cs.cmu.edu/)
+      + [Stanford CS 234]
+          - [Web page](https://web.stanford.edu/class/cs234/assignments.html)        
+          - [Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+
+      
  
 15. CS 229 Machine Learning, Stanford  
      + [Web page](http://cs229.stanford.edu/)
