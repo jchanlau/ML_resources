@@ -14,6 +14,12 @@
      + Neural networks for Machine Learning 2012 (Coursera, Geoffrey Hinton)  
           + [Videos - Youtube](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
           + [Hinton Web page](http://www.cs.toronto.edu/~hinton/)
+     + [Stanford - Deep Learning Tutorial](http://ufldl.stanford.edu/)
+     + [Berkeley STAT 157 introduction to Deep Learning](https://courses.d2l.ai/berkeley-stat-157/index.html)     
+          + [Web page of book](d2l.ai)
+          + [Online book](numpy.d2l.ai)
+     + [MIT 6.883 Science of Deep Learning: Bridging Theory and Practice](https://stellar.mit.edu/S/course/6/sp18/6.883/index.html)
+     + [Stanford CS231n CNN for Visual Recognition](http://cs231n.stanford.edu/)
 
 2.   Statistical Learning  
      + MIT Statistical Learning 9.520: Tomasso Poggio  
@@ -33,6 +39,8 @@
 
 3.   Machine Learning  
      + [U Penn CIS 419/519, Fall 2018, Applied Machine Learning](https://www.seas.upenn.edu/~cis519/fall2018/)
+     + [MIT 6.883 Online Methods in Machine Learning](http://www.mit.edu/~rakhlin/6.883/)
+     + [MIT 6.883 Advanced Machine Learning](http://people.csail.mit.edu/stefje/fall15/index.html)
      + [CMU 10601A/C Machine Learning](https://www.cs.cmu.edu/~roni/10601/)
      + Georgia Tech Machine Learning Theory  
           + [Maria Florina Balcan](http://www.cs.cmu.edu/~ninamf/ML13/index.html)  
@@ -48,6 +56,8 @@
           + [Open Data Science](https://ods.ai/en/)
      + Machine Learning Course FastAI
           + [Course web page](http://course18.fast.ai/ml.html)
+     + [UWa CSE 546 Machine Learning](https://courses.cs.washington.edu/courses/cse546/18au/)
+     + [GaTech ML for Trading](https://quantsoftware.gatech.edu)
  
 4.   Big Data  
      + [Jimeng Sun Sunlab](https://sunlab.org)
@@ -67,25 +77,38 @@
      + Web page (https://homes.cs.washington.edu/~sham/)
      
 9. Reinforcement Learning Courses  
-      + [Shan Kakade (UWa)](https://courses.cs.washington.edu/courses/cse599m/19sp/)
-      + [Nan Jiang (UIUC)](https://nanjiang.cs.illinois.edu/cs598/)
-      + [Shipra Aggarwal, Columbia](https://ieor8100.github.io/rl/)  
-      + [Alekh Agarwal and Alex Slivkins, columbia](http://alekhagarwal.net/bandits_and_rl/)
-      + [Byron Books, GaTech](https://www.cc.gatech.edu/~bboots3/ACRL-Spring2019/)
-      + [Sergey Levine, Deep Reinforcement Learning, Cal](http://rail.eecs.berkeley.edu/deeprlcourse/)
-      + [Holly Grimm Open AI](https://hollygrimm.com/syllabus_rl)
-      + [CMU introduction to Dep Learning](http://deeplearning.cs.cmu.edu/)
-      + [Stanford CS 234]
-          - [Web page](https://web.stanford.edu/class/cs234/assignments.html)        
-          - [Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
- 
-10.  [Computational methods in the Civic Sphere, Stanford](http://www.compciv.org/)  
-     + Useful resources on Python programming and bash commands
+     + [Shan Kakade (UWa)](https://courses.cs.washington.edu/courses/cse599m/19sp/)
+     + [Nan Jiang (UIUC)](https://nanjiang.cs.illinois.edu/cs598/)
+     + [Shipra Aggarwal, Columbia](https://ieor8100.github.io/rl/)  
+     + [Alekh Agarwal and Alex Slivkins, columbia](http://alekhagarwal.net/bandits_and_rl/)
+     + [Byron Books, GaTech](https://www.cc.gatech.edu/~bboots3/ACRL-Spring2019/)
+     + [Sergey Levine, Deep Reinforcement Learning, Cal](http://rail.eecs.berkeley.edu/deeprlcourse/)
+     + [Holly Grimm Open AI](https://hollygrimm.com/syllabus_rl)
+     + [CMU introduction to Dep Learning](http://deeplearning.cs.cmu.edu/)
+     + [Stanford CS 234]
+         - [Web page](https://web.stanford.edu/class/cs234/assignments.html)        
+         - [Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 
-11.  Google Resources  
-     + [AI Google](http://ai.google)
-     + [Google Developers](https://developers.google.com)
-     + {Google ML Crash Course](https://developers.google.com/machine-learning/crash-course/)
+10.  Other online resources  
+     + [Computational methods in the Civic Sphere, Stanford](http://www.compciv.org/)  
+          - Useful resources on Python programming and bash commands
+     + Google Resources  
+          + [AI Google](http://ai.google)
+          + [Google Developers](https://developers.google.com)
+          + {Google ML Crash Course](https://developers.google.com/machine-learning/crash-course/)
+     + [Amazon Forecasts](https://aws.amazon.com/forecast/features)
+     + [Amazon interview questions](https://www.interviewbit.com/amazon-interview-questions/)     
+     + [What-if-tool](https://pair-code.github.io/what-if-tool/index.html)
+     + [Data, modelds and Decisions MIT OCW](https://ocw.mit.edu/courses/sloan-school-of-management/15-060-data-models-and-decisions-fall-2014/)
+     + [Princeton - ELE 538 Mathematics of High-Dimensional Data](http://www.princeton.edu/~yc5/ele538_math_data/index.html)
+     + [Twiecki MCMC Blog](https://twiecki.io/)
+     + [Dalpiaz - R for Statistical Learning](https://daviddalpiaz.github.io/r4sl/)
+     + [U Mich Data Science and Predictive Analytics](http://www.socr.umich.edu/people/dinov/2017/Spring/DSPA_HS650/)
+     + [GaTech CS 6505 Algorithms](https://cs6505.wordpress.com/)
+     + [Jansen Hands-On ML for Algorithmic Trading](https://github.com/stefan-jansen/machine-learning-for-trading)
+     + [Stevens FE 670 Algorithmic Trading](https://web.stevens.edu/hfslwiki/index.php?title=FE670_Algorithmic_Trading_Strategies)
+     + [Free Books on Statistical Learning](https://www.r-bloggers.com/free-books-on-statistical-learning/)
+     + [WPI CS573 Data Visualization](https://canvas.wpi.edu/courses/11859)
 
 12.  Rob Hyndman  
      + [Time series cross-validation](https://robjhyndman.com/hyndsight/tscv/)
@@ -95,15 +118,15 @@
 
 14.  [Machine Learning Graduate Sequence CMU](https://www.ml.cmu.edu/academics/ml-core.html)
 
-15.  [Yiling Chen Harvard, Econ and CS](https://yiling.seas.harvard.edu/)
+15.  [CS 6601 Artificial Intelligence GaTech](https://www.cc.gatech.edu/~thad/6601-gradAI-fall2015/CS6601.html)
 
-16.  [CS 6601 Artificial Intelligence GaTech](https://www.cc.gatech.edu/~thad/6601-gradAI-fall2015/CS6601.html)
+16.  [Foundations of Computation Textbook](https://math.hws.edu)
 
-17.  [Foundations of Computation Textbook](https://math.hws.edu)
+17.  People  
+     + [Yiling Chen Harvard, Econ and CS](https://yiling.seas.harvard.edu/)
+     + [Sasha Rakhlin MIT](http://www.mit.edu/~rakhlin/)
 
-18.  [Amazon Forecasts](https://aws.amazon.com/forecast/features)
 
-19.  [Amazon interview questions](https://www.interviewbit.com/amazon-interview-questions/)
      
       
 
