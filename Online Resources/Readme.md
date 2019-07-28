@@ -59,8 +59,16 @@
 16.  [Computational methods in the Civic Sphere, Stanford](http://www.compciv.org/)  
      + Useful resources on Python programming and bash commands
 
-17.  [AI Google](http://ai.google)
-      
+17.  Google Resources  
+     + [AI Google](http://ai.google)
+     + [Google Developers](https://developers.google.com)
+     + {Google ML Crash Course](https://developers.google.com/machine-learning/crash-course/)
+
+18.  Rob Hyndman  
+     + [Time series cross-validation](https://robjhyndman.com/hyndsight/tscv/)
+     + [Main page](https://robjhyndman.com/)
+     
+     
       
       
       
