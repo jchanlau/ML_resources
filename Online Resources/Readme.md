@@ -1,6 +1,7 @@
 ## Online resources 
 
 1. Deep Learning  
+     + [Andrew NG - Deep Learning Site](https://www.deeplearning.ai)
      + [University of Amsterdam Deep Learning Course](https://uvadlc.github.io)
      + [Stanford CS224n NLP with Deep Learning](https://web.stanford.edu/class/cs224n)
      + Stanford CS230 Fall 2018
@@ -9,6 +10,10 @@
      + [DeepMind](https://deepmind.com)
      + Deep Learning Course FastAI
           + [Course web page](http://course18.fast.ai/index.html)
+     + [U Penn - CIS 700 Deep Learning for Data Science](https://www.seas.upenn.edu/~cis700dl/index.html)
+     + Neural networks for Machine Learning 2012 (Coursera, Geoffrey Hinton)  
+          + [Videos - Youtube](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
+          + [Hinton Web page](http://www.cs.toronto.edu/~hinton/)
 
 2.   Statistical Learning  
      + MIT Statistical Learning 9.520: Tomasso Poggio  
@@ -24,9 +29,11 @@
      + Oxford - Statistical Machine Learning  
           + [Web site](http://www.stats.ox.ac.uk/~palamara/teaching/SML18/SML18.html)
      + [Regularization Methods for Machine Learning](http://lcsl.mit.edu/courses/master/RegML/)
+     + [U Penn CIS 700 Advanced Machine Learning](https://www.seas.upenn.edu/~cis700dr/Spring19/)
 
 3.   Machine Learning  
-     + [CIS 419/519, Fall 2018, Applied Machine Learning, U Penn](https://www.seas.upenn.edu/~cis519/fall2018/)
+     + [U Penn CIS 419/519, Fall 2018, Applied Machine Learning](https://www.seas.upenn.edu/~cis519/fall2018/)
+     + [CMU 10601A/C Machine Learning](https://www.cs.cmu.edu/~roni/10601/)
      + Georgia Tech Machine Learning Theory  
           + [Maria Florina Balcan](http://www.cs.cmu.edu/~ninamf/ML13/index.html)  
           + [Santosh Vempala](https://cs7545.wordpress.com/)
@@ -34,17 +41,16 @@
           + [Web site](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
           + [YouTube videos](https://www.youtube.com/user/ProfNandoDF)
           + [UBC Web site](https://www.cs.ubc.ca/~nando/)
-     + CS 229 Machine Learning, Stanford  
+     + Stanford, CS 229 Machine Learning
           + [Web page](http://cs229.stanford.edu/)
-     + Machine Learning Course by Open Data Science  
+     + Open Data Science, Machine Learning Course  
           + [Course web page](https://mlcourse.ai/)
           + [Open Data Science](https://ods.ai/en/)
      + Machine Learning Course FastAI
           + [Course web page](http://course18.fast.ai/ml.html)
  
-4.   Neural networks for Machine Learning 2012 (Coursera, Geoffrey Hinton)  
-     + [Videos - Youtube](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
-     + [Hinton Web page](http://www.cs.toronto.edu/~hinton/)
+4.   Big Data  
+     + [Jimeng Sun Sunlab](https://sunlab.org)
 
 5.   Cal - Introduction to Artificial Intelligence  
      + [Spring 2019](https://inst.eecs.berkeley.edu/~cs188/sp19/)
@@ -87,11 +93,13 @@
 
 13.  [Time Series Nested Cross-Validation](https://towardsdatascience.com/time-series-nested-cross-validation-76adba623eb9)
 
-22.  [Machine Learning Graduate Sequence CMU](https://www.ml.cmu.edu/academics/ml-core.html)
+14.  [Machine Learning Graduate Sequence CMU](https://www.ml.cmu.edu/academics/ml-core.html)
 
-24.   [Yiling Chen Harvard, Econ and CS](https://yiling.seas.harvard.edu/)
+15.  [Yiling Chen Harvard, Econ and CS](https://yiling.seas.harvard.edu/)
 
-25.  [CS 6601 Artificial Intelligence GaTech](https://www.cc.gatech.edu/~thad/6601-gradAI-fall2015/CS6601.html)
+16.  [CS 6601 Artificial Intelligence GaTech](https://www.cc.gatech.edu/~thad/6601-gradAI-fall2015/CS6601.html)
+
+17.  [Foundations of Computation Textbook](https://math.hws.edu)
      
       
 
