@@ -52,6 +52,8 @@
       + [Alekh Agarwal and Alex Slivkins, columbia](http://alekhagarwal.net/bandits_and_rl/)
       + [Byron Books, GaTech](https://www.cc.gatech.edu/~bboots3/ACRL-Spring2019/)
       + [Sergey Levine, Deep Reinforcement Learning, Cal](http://rail.eecs.berkeley.edu/deeprlcourse/)
+      + [Holly Grimm Open AI](https://hollygrimm.com/syllabus_rl)
+      + [CMU introduction to Dep Learning](http://deeplearning.cs.cmu.edu/)
  
 15. CS 229 Machine Learning, Stanford  
      + [Web page](http://cs229.stanford.edu/)
@@ -67,7 +69,16 @@
 18.  Rob Hyndman  
      + [Time series cross-validation](https://robjhyndman.com/hyndsight/tscv/)
      + [Main page](https://robjhyndman.com/)
-     
+
+19.  [Time Series Nested Cross-Validation](https://towardsdatascience.com/time-series-nested-cross-validation-76adba623eb9)
+
+20.  [Regularization Methods for Machine Learning](http://lcsl.mit.edu/courses/master/RegML/)
+
+21.  Machine Learning Course by Open Data Science  
+     + [Course web page](https://mlcourse.ai/)
+     + [Open Data Science](https://ods.ai/en/)
+
+22.  [Machine Learning Graduate Sequence CMU](https://www.ml.cmu.edu/academics/ml-core.html)
      
       
       
