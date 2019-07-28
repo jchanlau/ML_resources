@@ -7,52 +7,60 @@
           - [Videos](https://www.youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
           - [Web page](https://cs230.stanford.edu)
      + [DeepMind](https://deepmind.com)
-     
+     + Deep Learning Course FastAI
+          + [Course web page](http://course18.fast.ai/index.html)
 
-2.   MIT Statistical Learning 9.520: Tomasso Poggio  
-     + [Lecture notes](http://www.mit.edu/~9.520/fall18/)  
-     + [Videos - YouTube](https://www.youtube.com/watch?list=PLyGKBDfnk-iCXhuP9W-BQ9q2RkEIA5I5f&v=Q5itLKscYTA)
+2.   Statistical Learning  
+     + MIT Statistical Learning 9.520: Tomasso Poggio  
+          - [Lecture notes](http://www.mit.edu/~9.520/fall18/)  
+              - [Videos - YouTube](https://www.youtube.com/watch?list=PLyGKBDfnk-iCXhuP9W-BQ9q2RkEIA5I5f&v=Q5itLKscYTA)
+     + STAT 9238: Statistical Learning and Sequential Prediction (MIT) 
+          + Web page (http://www.mit.edu/~rakhlin/courses/stat928/)              
+     + CMU Statistical Machine Learning 36-708  
+          - [Lecture notes Larry Wasserman](http://www.stat.cmu.edu/~larry/=sml/)  
+          = [Lecture notes: Ryan Tibshirani](http://www.stat.cmu.edu/~ryantibs/statml/)
+     + [CMU Statistical ML Reading group](http://statml.cs.cmu.edu/)
+     + [CMU 10-716 Advanced Machine Learning](http://www.cs.cmu.edu/~pradeepr/716/)
+     + Oxford - Statistical Machine Learning  
+          + [Web site](http://www.stats.ox.ac.uk/~palamara/teaching/SML18/SML18.html)
+     + [Regularization Methods for Machine Learning](http://lcsl.mit.edu/courses/master/RegML/)
 
-3.   CMU Statistical Machine Learning 36-708
-     + [Lecture notes Larry Wasserman](http://www.stat.cmu.edu/~larry/=sml/)  
-     + [Lecture notes: Ryan Tibshirani](http://www.stat.cmu.edu/~ryantibs/statml/)
-
-4.   [CMU Statistical ML Reading group](http://statml.cs.cmu.edu/)
-
-5.   Neural networks for Machine Learning 2012 (Coursera, Geoffrey Hinton)  
+3.   Machine Learning  
+     + [CIS 419/519, Fall 2018, Applied Machine Learning, U Penn](https://www.seas.upenn.edu/~cis519/fall2018/)
+     + Georgia Tech Machine Learning Theory  
+          + [Maria Florina Balcan](http://www.cs.cmu.edu/~ninamf/ML13/index.html)  
+          + [Santosh Vempala](https://cs7545.wordpress.com/)
+     + Machine Learning Course, Nando de Freitas (Oxford)  
+          + [Web site](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
+          + [YouTube videos](https://www.youtube.com/user/ProfNandoDF)
+          + [UBC Web site](https://www.cs.ubc.ca/~nando/)
+     + CS 229 Machine Learning, Stanford  
+          + [Web page](http://cs229.stanford.edu/)
+     + Machine Learning Course by Open Data Science  
+          + [Course web page](https://mlcourse.ai/)
+          + [Open Data Science](https://ods.ai/en/)
+     + Machine Learning Course FastAI
+          + [Course web page](http://course18.fast.ai/ml.html)
+ 
+4.   Neural networks for Machine Learning 2012 (Coursera, Geoffrey Hinton)  
      + [Videos - Youtube](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
      + [Hinton Web page](http://www.cs.toronto.edu/~hinton/)
 
-6.   Cal - Introduction to Artificial Intelligence  
+5.   Cal - Introduction to Artificial Intelligence  
      + [Spring 2019](https://inst.eecs.berkeley.edu/~cs188/sp19/)
      + [Fall 2018](https://inst.eecs.berkeley.edu/~cs188/fa18/)
      + [Spring 2014](http://ai.berkeley.edu/lecture_videos.html)
      
-7.   [Warwick Academy for PhD Training in Statistics](https://warwick.ac.uk/fac/sci/statistics/apts/)
+6.   [Warwick Academy for PhD Training in Statistics](https://warwick.ac.uk/fac/sci/statistics/apts/)
 
-8.   Jake VanderPlas resources  
+7.   Jake VanderPlas resources  
      + [Python Data Science Handbook GitHub repo](https://github.com/jakevdp)  
      + [Web site](http://vanderplas.com/)
-
-9.   Georgia Tech Machine Learning Theory  
-     + [Maria Florina Balcan](http://www.cs.cmu.edu/~ninamf/ML13/index.html)  
-     + [Santosh Vempala](https://cs7545.wordpress.com/)
-     
-10.  Machine Learning, Nando de Freitas (Oxford)  
-     + [Web site](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
-     + [YouTube videos](https://www.youtube.com/user/ProfNandoDF)
-     + [UBC Web site](https://www.cs.ubc.ca/~nando/)
-     
-11.  Oxford - Statistical Machine Learning  
-     + [Web site](http://www.stats.ox.ac.uk/~palamara/teaching/SML18/SML18.html)
-     
-12.  STAT 9238: Statistical Learning and Sequential Prediction (MIT) 
-     + Web page (http://www.mit.edu/~rakhlin/courses/stat928/)
-
-13.  Sham Kakade Data Science page at UWa  
+    
+8.  Sham Kakade Data Science page at UWa  
      + Web page (https://homes.cs.washington.edu/~sham/)
      
-14. Reinforcement Learning Courses  
+9. Reinforcement Learning Courses  
       + [Shan Kakade (UWa)](https://courses.cs.washington.edu/courses/cse599m/19sp/)
       + [Nan Jiang (UIUC)](https://nanjiang.cs.illinois.edu/cs598/)
       + [Shipra Aggarwal, Columbia](https://ieor8100.github.io/rl/)  
@@ -64,35 +72,22 @@
       + [Stanford CS 234]
           - [Web page](https://web.stanford.edu/class/cs234/assignments.html)        
           - [Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
-
-      
  
-15. CS 229 Machine Learning, Stanford  
-     + [Web page](http://cs229.stanford.edu/)
-
-16.  [Computational methods in the Civic Sphere, Stanford](http://www.compciv.org/)  
+10.  [Computational methods in the Civic Sphere, Stanford](http://www.compciv.org/)  
      + Useful resources on Python programming and bash commands
 
-17.  Google Resources  
+11.  Google Resources  
      + [AI Google](http://ai.google)
      + [Google Developers](https://developers.google.com)
      + {Google ML Crash Course](https://developers.google.com/machine-learning/crash-course/)
 
-18.  Rob Hyndman  
+12.  Rob Hyndman  
      + [Time series cross-validation](https://robjhyndman.com/hyndsight/tscv/)
      + [Main page](https://robjhyndman.com/)
 
-19.  [Time Series Nested Cross-Validation](https://towardsdatascience.com/time-series-nested-cross-validation-76adba623eb9)
-
-20.  [Regularization Methods for Machine Learning](http://lcsl.mit.edu/courses/master/RegML/)
-
-21.  Machine Learning Course by Open Data Science  
-     + [Course web page](https://mlcourse.ai/)
-     + [Open Data Science](https://ods.ai/en/)
+13.  [Time Series Nested Cross-Validation](https://towardsdatascience.com/time-series-nested-cross-validation-76adba623eb9)
 
 22.  [Machine Learning Graduate Sequence CMU](https://www.ml.cmu.edu/academics/ml-core.html)
-
-23.  [CMU 10-716 Advanced Machine Learning](http://www.cs.cmu.edu/~pradeepr/716/)
 
 24.   [Yiling Chen Harvard, Econ and CS](https://yiling.seas.harvard.edu/)
 
