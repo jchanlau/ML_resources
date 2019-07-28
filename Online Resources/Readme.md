@@ -1,6 +1,7 @@
 ## Online resources 
 
-1. Deep Learning
+1. Deep Learning  
+     + [University of Amsterdam Deep Learning Course](https://uvadlc.github.io)
 
 2.   MIT Statistical Learning 9.520: Tomasso Poggio  
      + [Lecture notes](http://www.mit.edu/~9.520/fall18/)  
@@ -79,9 +80,13 @@
      + [Open Data Science](https://ods.ai/en/)
 
 22.  [Machine Learning Graduate Sequence CMU](https://www.ml.cmu.edu/academics/ml-core.html)
+
+23.  [CMU 10-716 Advanced Machine Learning](http://www.cs.cmu.edu/~pradeepr/716/)
+
+24.   [Yiling Chen Harvard, Econ and CS](https://yiling.seas.harvard.edu/)
+
+25.  [CS 6601 Artificial Intelligence GaTech](https://www.cc.gatech.edu/~thad/6601-gradAI-fall2015/CS6601.html)
      
-      
-      
       
 
      
