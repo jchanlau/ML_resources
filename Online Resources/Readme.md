@@ -2,6 +2,7 @@
 
 1. Deep Learning  
      + [University of Amsterdam Deep Learning Course](https://uvadlc.github.io)
+     + [DeepMind](https://deepmind.com)
 
 2.   MIT Statistical Learning 9.520: Tomasso Poggio  
      + [Lecture notes](http://www.mit.edu/~9.520/fall18/)  
