@@ -52,6 +52,13 @@
       + [Alekh Agarwal and Alex Slivkins, columbia](http://alekhagarwal.net/bandits_and_rl/)
       + [Byron Books, GaTech](https://www.cc.gatech.edu/~bboots3/ACRL-Spring2019/)
       + [Sergey Levine, Deep Reinforcement Learning, Cal](http://rail.eecs.berkeley.edu/deeprlcourse/)
+ 
+15. CS 229 Machine Learning, Stanford  
+     + [Web page](http://cs229.stanford.edu/)
+
+16.  [Computational methods in the Civic Sphere, Stanford](http://www.compciv.org/)  
+     + Useful resources on Python programming and bash commands
+
       
       
       
