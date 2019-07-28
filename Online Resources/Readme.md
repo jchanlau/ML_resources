@@ -100,6 +100,8 @@
 16.  [CS 6601 Artificial Intelligence GaTech](https://www.cc.gatech.edu/~thad/6601-gradAI-fall2015/CS6601.html)
 
 17.  [Foundations of Computation Textbook](https://math.hws.edu)
+
+18.  [Amazon Forecasts](https://aws.amazon.com/forecast/features)
      
       
 
