@@ -21,6 +21,14 @@
      + [Fall 2018](https://inst.eecs.berkeley.edu/~cs188/fa18/)
      + [Spring 2014](http://ai.berkeley.edu/lecture_videos.html)
      
+7. [Warwick Academy for PhD Training in Statistics](https://warwick.ac.uk/fac/sci/statistics/apts/)
 
-     
+8. Jake VanderPlas resources  
+     + [Python Data Science Handbook GitHub repo](https://github.com/jakevdp)  
+     + [Web site](http://vanderplas.com/)
+
+9. Georgia Tech Machine Learning Theory  
+     + [Maria Florina Balcan](http://www.cs.cmu.edu/~ninamf/ML13/index.html)  
+     + [Santosh Vempala](https://cs7545.wordpress.com/)
+ 
      
