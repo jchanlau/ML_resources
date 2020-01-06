@@ -7,7 +7,8 @@
      + Stanford CS230 Fall 2018
           - [Videos](https://www.youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
           - [Web page](https://cs230.stanford.edu)
-     + [DeepMind](https://deepmind.com)
+     + [DeepMind](https://deepmind.com)  
+          + [YouTube Lectures](https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A)
      + Deep Learning Course FastAI
           + [Course web page](http://course18.fast.ai/index.html)
      + [U Penn - CIS 700 Deep Learning for Data Science](https://www.seas.upenn.edu/~cis700dl/index.html)
@@ -25,12 +26,12 @@
 2.   Statistical Learning  
      + MIT Statistical Learning 9.520: Tomasso Poggio  
           - [Lecture notes](http://www.mit.edu/~9.520/fall18/)  
-              - [Videos - YouTube](https://www.youtube.com/watch?list=PLyGKBDfnk-iCXhuP9W-BQ9q2RkEIA5I5f&v=Q5itLKscYTA)
+          - [Videos - YouTube](https://www.youtube.com/watch?list=PLyGKBDfnk-iCXhuP9W-BQ9q2RkEIA5I5f&v=Q5itLKscYTA)
      + STAT 9238: Statistical Learning and Sequential Prediction (MIT) 
           + Web page (http://www.mit.edu/~rakhlin/courses/stat928/)              
      + CMU Statistical Machine Learning 36-708  
           - [Lecture notes Larry Wasserman](http://www.stat.cmu.edu/~larry/=sml/)  
-          = [Lecture notes: Ryan Tibshirani](http://www.stat.cmu.edu/~ryantibs/statml/)
+          - [Lecture notes: Ryan Tibshirani](http://www.stat.cmu.edu/~ryantibs/statml/)
      + [CMU Statistical ML Reading group](http://statml.cs.cmu.edu/)
      + [CMU 10-716 Advanced Machine Learning](http://www.cs.cmu.edu/~pradeepr/716/)
      + Oxford - Statistical Machine Learning  
@@ -62,7 +63,7 @@
  
 4.   Big Data  
      + [Jimeng Sun Sunlab](https://sunlab.org)
-     
+
 5.   Artificial Intelligence  
      + Cal - Introduction to Artificial Intelligence  
           + [Spring 2019](https://inst.eecs.berkeley.edu/~cs188/sp19/)
@@ -73,10 +74,12 @@
      + [CS 6601 Artificial Intelligence GaTech](https://www.cc.gatech.edu/~thad/6601-gradAI-fall2015/CS6601.html)
     
 6. Reinforcement Learning Courses  
+     + [David Silver (UCL)](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)  
+          + [YouTube video playlist](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
      + [Shan Kakade (UWa)](https://courses.cs.washington.edu/courses/cse599m/19sp/)
      + [Nan Jiang (UIUC)](https://nanjiang.cs.illinois.edu/cs598/)
      + [Shipra Aggarwal, Columbia](https://ieor8100.github.io/rl/)  
-     + [Alekh Agarwal and Alex Slivkins, columbia](http://alekhagarwal.net/bandits_and_rl/)
+     + [Alekh Agarwal and Alex Slivkins, Columbia](http://alekhagarwal.net/bandits_and_rl/)
      + [Byron Books, GaTech](https://www.cc.gatech.edu/~bboots3/ACRL-Spring2019/): No longer available
      + [Sergey Levine, Deep Reinforcement Learning, Cal](http://rail.eecs.berkeley.edu/deeprlcourse/)
      + [Holly Grimm Open AI](https://hollygrimm.com/syllabus_rl)
