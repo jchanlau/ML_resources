@@ -20,6 +20,7 @@
           + [Online book](numpy.d2l.ai)
      + [MIT 6.883 Science of Deep Learning: Bridging Theory and Practice](https://stellar.mit.edu/S/course/6/sp18/6.883/index.html)
      + [Stanford CS231n CNN for Visual Recognition](http://cs231n.stanford.edu/)
+     + [Dive into Deep Learning](https://d2l.ai/): Interactive deep learning textbook (Python)
 
 2.   Statistical Learning  
      + MIT Statistical Learning 9.520: Tomasso Poggio  
