@@ -62,22 +62,17 @@
  
 4.   Big Data  
      + [Jimeng Sun Sunlab](https://sunlab.org)
-
-5.   Cal - Introduction to Artificial Intelligence  
-     + [Spring 2019](https://inst.eecs.berkeley.edu/~cs188/sp19/)
-     + [Fall 2018](https://inst.eecs.berkeley.edu/~cs188/fa18/)
-     + [Spring 2014](http://ai.berkeley.edu/lecture_videos.html)
      
-6.   [Warwick Academy for PhD Training in Statistics](https://warwick.ac.uk/fac/sci/statistics/apts/)
-
-7.   Jake VanderPlas resources  
-     + [Python Data Science Handbook GitHub repo](https://github.com/jakevdp)  
-     + [Web site](http://vanderplas.com/)
+5.   Artificial Intelligence  
+     + Cal - Introduction to Artificial Intelligence  
+          + [Spring 2019](https://inst.eecs.berkeley.edu/~cs188/sp19/)
+          + [Fall 2018](https://inst.eecs.berkeley.edu/~cs188/fa18/)
+          + [Spring 2014](http://ai.berkeley.edu/lecture_videos.html)  
+     + Artificial Intelligence: a Modern Approach Resources  
+          + [Book repository](http://aima.cs.berkeley.edu/)
+     + [CS 6601 Artificial Intelligence GaTech](https://www.cc.gatech.edu/~thad/6601-gradAI-fall2015/CS6601.html)
     
-8.  Sham Kakade Data Science page at UWa  
-     + Web page (https://homes.cs.washington.edu/~sham/)
-     
-9. Reinforcement Learning Courses  
+6. Reinforcement Learning Courses  
      + [Shan Kakade (UWa)](https://courses.cs.washington.edu/courses/cse599m/19sp/)
      + [Nan Jiang (UIUC)](https://nanjiang.cs.illinois.edu/cs598/)
      + [Shipra Aggarwal, Columbia](https://ieor8100.github.io/rl/)  
@@ -90,7 +85,7 @@
          - [Web page](https://web.stanford.edu/class/cs234/assignments.html)        
          - [Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 
-10.  Other online resources  
+7.  Other online resources  
      + [Computational methods in the Civic Sphere, Stanford](http://www.compciv.org/)  
           - Useful resources on Python programming and bash commands
      + Google Resources  
@@ -109,31 +104,22 @@
      + [Jansen Hands-On ML for Algorithmic Trading](https://github.com/stefan-jansen/machine-learning-for-trading)
      + [Stevens FE 670 Algorithmic Trading](https://web.stevens.edu/hfslwiki/index.php?title=FE670_Algorithmic_Trading_Strategies)
      + [Free Books on Statistical Learning](https://www.r-bloggers.com/free-books-on-statistical-learning/)
-     + [WPI CS573 Data Visualization](https://canvas.wpi.edu/courses/11859)
+     + [WPI CS573 Data Visualization](https://canvas.wpi.edu/courses/11859)  
+     + [Warwick Academy for PhD Training in Statistics](https://warwick.ac.uk/fac/sci/statistics/apts/)
+     + [Time Series Nested Cross-Validation](https://towardsdatascience.com/time-series-nested-cross-validation-76adba623eb9)
+     + [Machine Learning Graduate Sequence CMU](https://www.ml.cmu.edu/academics/ml-core.html)
 
-12.  Rob Hyndman  
-     + [Time series cross-validation](https://robjhyndman.com/hyndsight/tscv/)
-     + [Main page](https://robjhyndman.com/)
+8.   Miscellaneous  
+     + Jake VanderPlas resources  
+          + [Python Data Science Handbook GitHub repo](https://github.com/jakevdp)  
+          + [Web site](http://vanderplas.com/)  
+     + Sham Kakade Data Science page at UWa  
+          + Web page (https://homes.cs.washington.edu/~sham/)
+     + Rob Hyndman  
+          + [Time series cross-validation](https://robjhyndman.com/hyndsight/tscv/)
+          + [Main page](https://robjhyndman.com/)
+     + [Foundations of Computation Textbook](https://open.umn.edu/opentextbooks/textbooks/foundations-of-computation)
 
-13.  [Time Series Nested Cross-Validation](https://towardsdatascience.com/time-series-nested-cross-validation-76adba623eb9)
-
-14.  [Machine Learning Graduate Sequence CMU](https://www.ml.cmu.edu/academics/ml-core.html)
-
-15.  [CS 6601 Artificial Intelligence GaTech](https://www.cc.gatech.edu/~thad/6601-gradAI-fall2015/CS6601.html)
-
-16.  [Foundations of Computation Textbook](https://math.hws.edu)
-
-17.  People  
+9.  People  
      + [Yiling Chen Harvard, Econ and CS](https://yiling.seas.harvard.edu/)
      + [Sasha Rakhlin MIT](http://www.mit.edu/~rakhlin/)
-
-
-     
-      
-
-     
- 
-
-
- 
-     
