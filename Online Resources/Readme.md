@@ -82,7 +82,7 @@
      + [Nan Jiang (UIUC)](https://nanjiang.cs.illinois.edu/cs598/)
      + [Shipra Aggarwal, Columbia](https://ieor8100.github.io/rl/)  
      + [Alekh Agarwal and Alex Slivkins, columbia](http://alekhagarwal.net/bandits_and_rl/)
-     + [Byron Books, GaTech](https://www.cc.gatech.edu/~bboots3/ACRL-Spring2019/)
+     + [Byron Books, GaTech](https://www.cc.gatech.edu/~bboots3/ACRL-Spring2019/): No longer available
      + [Sergey Levine, Deep Reinforcement Learning, Cal](http://rail.eecs.berkeley.edu/deeprlcourse/)
      + [Holly Grimm Open AI](https://hollygrimm.com/syllabus_rl)
      + [CMU introduction to Dep Learning](http://deeplearning.cs.cmu.edu/)
