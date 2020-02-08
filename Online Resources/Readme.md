@@ -123,6 +123,10 @@
           + [Time series cross-validation](https://robjhyndman.com/hyndsight/tscv/)
           + [Main page](https://robjhyndman.com/)
      + [Foundations of Computation Textbook](https://open.umn.edu/opentextbooks/textbooks/foundations-of-computation)
+     + [Insight blogs](https://blog.insightdatascience.com/)
+          + [Transition to Applied AI](https://blog.insightdatascience.com/preparing-for-the-transition-to-applied-artificial-intelligence-b14ba826206)
+          + [Useful data engineering blogs](https://blog.insightdatascience.com/top-10-blog-posts-to-help-you-transition-to-data-engineering-1db2312ecdaf)
+          + [Transition to Data Science](https://blog.insightdatascience.com/preparing-for-the-transition-to-data-science-e9194c90b42c)
 
 9.  People  
      + [Yiling Chen Harvard, Econ and CS](https://yiling.seas.harvard.edu/)
