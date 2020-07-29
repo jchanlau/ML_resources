@@ -62,6 +62,7 @@
      + [GaTech ML for Trading](https://quantsoftware.gatech.edu)
      + [MSRI Mathematics of Machine Learning Summer School 2019](https://www.msri.org/summer_schools/866)
      + [Paul Allen School UW Video Lectures](https://www.youtube.com/c/uwcse/playlists?disable_polymer=1)
+     + [Bloombeg: Foundations of Machine Learning Course](https://bloomberg.github.io/foml/#about)
  
 4.   Big Data  
      + [Jimeng Sun Sunlab](https://sunlab.org)
@@ -134,6 +135,7 @@
           + [Transition to Data Science](https://blog.insightdatascience.com/preparing-for-the-transition-to-data-science-e9194c90b42c)
      + [Probabilistic Programming and Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
      + [Off the convex path](http://www.offconvex.org/about/)
+     + [The Matrix Cookbook](https://www2.imm.dtu.dk/pubdb/pubs/3274-full.html)
 
 9.  People  
      + [Yiling Chen Harvard, Econ and CS](https://yiling.seas.harvard.edu/)
