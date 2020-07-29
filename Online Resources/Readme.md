@@ -97,7 +97,7 @@
      + Google Resources  
           + [AI Google](http://ai.google)
           + [Google Developers](https://developers.google.com)
-          + {Google ML Crash Course](https://developers.google.com/machine-learning/crash-course/)
+          + [Google ML Crash course](https://developers.google.com/machine-learning/crash-course/)
      + [Amazon Forecasts](https://aws.amazon.com/forecast/features)
      + [Amazon interview questions](https://www.interviewbit.com/amazon-interview-questions/)     
      + [What-if-tool](https://pair-code.github.io/what-if-tool/index.html)
