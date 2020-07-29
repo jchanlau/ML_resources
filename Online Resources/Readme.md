@@ -61,6 +61,7 @@
      + [UWa CSE 546 Machine Learning](https://courses.cs.washington.edu/courses/cse546/18au/)
      + [GaTech ML for Trading](https://quantsoftware.gatech.edu)
      + [MSRI Mathematics of Machine Learning Summer School 2019](https://www.msri.org/summer_schools/866)
+     + [Paul Allen School UW Video Lectures](https://www.youtube.com/c/uwcse/playlists?disable_polymer=1)
  
 4.   Big Data  
      + [Jimeng Sun Sunlab](https://sunlab.org)
