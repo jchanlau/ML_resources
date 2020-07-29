@@ -63,6 +63,7 @@
      + [MSRI Mathematics of Machine Learning Summer School 2019](https://www.msri.org/summer_schools/866)
      + [Paul Allen School UW Video Lectures](https://www.youtube.com/c/uwcse/playlists?disable_polymer=1)
      + [Bloombeg: Foundations of Machine Learning Course](https://bloomberg.github.io/foml/#about)
+     + [One World Seminars on the Mathematics of Machine Learning](https://www.oneworldml.org/home)
  
 4.   Big Data  
      + [Jimeng Sun Sunlab](https://sunlab.org)
@@ -118,6 +119,7 @@
      + [Warwick Academy for PhD Training in Statistics](https://warwick.ac.uk/fac/sci/statistics/apts/)
      + [Time Series Nested Cross-Validation](https://towardsdatascience.com/time-series-nested-cross-validation-76adba623eb9)
      + [Machine Learning Graduate Sequence CMU](https://www.ml.cmu.edu/academics/ml-core.html)
+     + [Online seminars - Mathematical Foundations of Data Science](https://sites.google.com/view/seminarmathdatascience/home)
 
 8.   Miscellaneous  
      + Jake VanderPlas resources  
