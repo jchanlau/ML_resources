@@ -88,6 +88,8 @@
          - [Web page](https://web.stanford.edu/class/cs234/assignments.html)        
          - [Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
      + [U of Alberta, via Coursera](https://www.ualberta.ca/admissions-programs/online-courses/reinforcement-learning/index.html)
+     + [Deep Reinforcement Learning Bootcamp, CAL](https://sites.google.com/view/deep-rl-bootcamp/home?authuser=0)
+     + [A Beginner's guide to Reinforcement learning](https://sites.google.com/view/deep-rl-bootcamp/home?authuser=0)
 
 7.  Other online resources  
      + [Computational methods in the Civic Sphere, Stanford](http://www.compciv.org/)  
