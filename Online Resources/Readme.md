@@ -129,6 +129,7 @@
           + [Transition to Applied AI](https://blog.insightdatascience.com/preparing-for-the-transition-to-applied-artificial-intelligence-b14ba826206)
           + [Useful data engineering blogs](https://blog.insightdatascience.com/top-10-blog-posts-to-help-you-transition-to-data-engineering-1db2312ecdaf)
           + [Transition to Data Science](https://blog.insightdatascience.com/preparing-for-the-transition-to-data-science-e9194c90b42c)
+     + [Probabilistic Programming and Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 
 9.  People  
      + [Yiling Chen Harvard, Econ and CS](https://yiling.seas.harvard.edu/)
