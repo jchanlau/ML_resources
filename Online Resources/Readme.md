@@ -88,18 +88,15 @@
      + [Shipra Aggarwal, Columbia](https://ieor8100.github.io/rl/)  
      + [Alekh Agarwal and Alex Slivkins, Columbia](http://alekhagarwal.net/bandits_and_rl/)
      + [Byron Books, GaTech](https://www.cc.gatech.edu/~bboots3/ACRL-Spring2019/): No longer available
-     + [Sergey Levine, Deep Reinforcement Learning, Cal](http://rail.eecs.berkeley.edu/deeprlcourse/)
+     + [Berkeley CS 285, Deep Reinforcement Learning, Cal](http://rail.eecs.berkeley.edu/deeprlcourse/)
      + [Holly Grimm Open AI](https://hollygrimm.com/syllabus_rl)
      + [CMU introduction to Dep Learning](http://deeplearning.cs.cmu.edu/)
-     + Stanford CS 234
-         - [Web page](https://web.stanford.edu/class/cs234/assignments.html)        
-         - [Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
      + [U of Alberta, via Coursera](https://www.ualberta.ca/admissions-programs/online-courses/reinforcement-learning/index.html)
      + [Deep Reinforcement Learning Bootcamp, CAL](https://sites.google.com/view/deep-rl-bootcamp/home?authuser=0)
      + [A Beginner's guide to Reinforcement learning](https://sites.google.com/view/deep-rl-bootcamp/home?authuser=0)
      + Stanford CS 234 Course
           + [Winter 2019 Video Lectures ](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)  
-          + [Winter 2020 Course Page](http://web.stanford.edu/class/cs234/index.html)
+          + [Winter 2020 Course Page](http://web.stanford.edu/class/cs234/index.html)      
 
 7.  Other online resources  
      + [Computational methods in the Civic Sphere, Stanford](http://www.compciv.org/)  
