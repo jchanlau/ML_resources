@@ -67,6 +67,7 @@
      + [Paul Allen School UW Video Lectures](https://www.youtube.com/c/uwcse/playlists?disable_polymer=1)
      + [Bloombeg: Foundations of Machine Learning Course](https://bloomberg.github.io/foml/#about)
      + [One World Seminars on the Mathematics of Machine Learning](https://www.oneworldml.org/home)
+     + [COMP 652 Machine Learning McGill U](https://www.cs.mcgill.ca/~dprecup/courses/ml.html)
  
 4.   Big Data  
      + [Jimeng Sun Sunlab](https://sunlab.org)
@@ -79,6 +80,7 @@
      + Artificial Intelligence: a Modern Approach Resources  
           + [Book repository](http://aima.cs.berkeley.edu/)
      + [CS 6601 Artificial Intelligence GaTech](https://www.cc.gatech.edu/~thad/6601-gradAI-fall2015/CS6601.html)
+     + [COMP 424 Introduction to AI, McGill U (Precup)](https://www.cs.mcgill.ca/~dprecup/courses/ai.html)
     
 6. Reinforcement Learning Courses  
      + [David Silver (UCL)](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)  
